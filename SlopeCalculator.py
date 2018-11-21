@@ -1,4 +1,9 @@
+
+
+
+
 print("Slope Calculator: ")
+
 
 #Input
 x1= input("Input x1:")
@@ -22,4 +27,4 @@ run = y2-y1
 #Output
 print  ("Your slope is m= "+str(rise)+"/"+str(run))
 print(rise)
-print (run)
+print (run) clear
